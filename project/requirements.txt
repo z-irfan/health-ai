@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+transformers
+torch
+pydantic
+requests
+scikit-learn
+matplotlib
+pandas
